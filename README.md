@@ -1,3 +1,8 @@
+#mirelescloud-react-analog-clock  
+
+Just a analog clock based on `https://javascript30.com/` vanilla javascript tutorial that I wanted to "translate" into React.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
